@@ -1,0 +1,31 @@
+timestamp,camera,employee,status
+2025-12-03 12:34:21,cam1,5,Working
+2025-12-03 12:34:21,cam1,6,Working
+2025-12-03 12:34:42,cam1,5,Empty
+2025-12-03 12:34:44,cam1,5,Working
+2025-12-03 12:34:47,cam1,5,Empty
+2025-12-03 12:34:48,cam1,5,Working
+2025-12-03 12:35:12,cam1,3,Working
+2025-12-03 12:35:15,cam1,2,Working
+2025-12-03 12:35:24,cam1,3,Not Working
+2025-12-03 12:35:25,cam1,2,Empty
+2025-12-03 12:35:26,cam1,3,Working
+2025-12-03 12:35:29,cam1,3,Empty
+2025-12-03 12:35:32,cam1,3,Working
+2025-12-03 12:35:38,cam1,2,Not Working
+2025-12-03 12:35:38,cam1,3,Not Working
+2025-12-03 12:35:40,cam1,2,Working
+2025-12-03 12:35:40,cam1,3,Working
+2025-12-03 12:47:30,cam1,1,Working
+2025-12-03 12:47:30,cam1,3,Working
+2025-12-03 12:47:30,cam1,5,Working
+2025-12-03 12:47:30,cam1,6,Working
+2025-12-03 12:47:41,cam1,3,Not Working
+2025-12-03 12:47:42,cam1,3,Working
+2025-12-03 12:47:42,cam1,3,Not Working
+2025-12-03 12:47:43,cam1,3,Working
+2025-12-03 12:47:52,cam1,2,Working
+2025-12-03 12:48:03,cam1,2,Empty
+2025-12-03 12:48:03,cam1,3,Empty
+2025-12-03 12:48:09,cam1,2,Working
+2025-12-03 12:48:09,cam1,3,Working
